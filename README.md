@@ -1,1 +1,2 @@
-# This is the repo for my blog site.
+# Theory of Communication
+          -- D. Gabor and Dr. Ing. (Sep 1945)
